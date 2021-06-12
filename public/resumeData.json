@@ -1,0 +1,83 @@
+{
+  "main": {
+    "name": "CodersHub",
+    "occupation": "A freelance company",
+    "description": "Excellent in media and web solutions. We bring together a creative team with the sole aim of establishing effective web and social media solutions for You.",
+    "image": "sky.jpg",
+    "bio": "Hi there I'm Onyema Anthony, co-founder and Lead Developer CodersHub. It's gives our team of critical thinkers great joy to bring to you solution to modern day technology in business and trade. Your websites make more sales",
+    "contactmessage": "Get in touch with me to i'll get your work done ASAP,or get trained or employment.",
+    "email": "Anthonychibuike246@gmail.com",
+    "phone": "+234 9032627367",
+    "address": {
+      "street": "Enugu",
+      "city": "Enugu",
+      "state": "Nigeria",
+      "zip": ""
+    },
+
+    "social": [
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/mwlite/in/onyema-anthony-406b97173",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/skyboyblu/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/OnyemaAnthony",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+
+  "portfolio": {
+    "projects": [
+      {
+        "title": "dolla",
+        "category": "responsive smooth scroll website made in react",
+        "image": "dolla.png",
+        "url": "https://dolla-78aa9.web.app/"
+      },
+      {
+        "title": "Covid 19 tracker",
+        "category": "Covid-19 track records(ReactJS, NodeJS, MaterialUi, leafletMap)",
+        "image": "covid-19.png",
+        "url": "https://covid-tracker-7766d.web.app/"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-206d7.web.app/"
+      },
+      {
+        "title": "Apple responsive website with ReactJs",
+        "category": "responsive apple website built in ReactJS",
+        "image": "apple.png",
+        "url": "https://apple-clone-c616c.web.app/"
+      },
+      {
+        "title": "Instagram desktop Clone with React",
+        "category": "instagram desktop Clone built with ReactJS",
+        "image": "ig.png",
+        "url": "https://instagram-clone-7996b.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I love it when i see talented youths being creative. this team will always manage my web applications",
+        "user": "Sean Moore"
+      },
+      {
+        "text": "You know what i love about you guys, you get to deliver in time and make technical value look so easy to come by",
+        "user": "S.O.P"
+      }
+    ]
+  }
+}
