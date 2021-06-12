@@ -3,7 +3,7 @@
     "name": "CodersHub",
     "occupation": "A freelance company",
     "description": "Excellent in media and web solutions. We bring together a creative team with the sole aim of establishing effective web and social media solutions for You.",
-    "image": "sky.jpg",
+    "image": "tony.jpeg",
     "bio": "Hi there I'm Onyema Anthony, co-founder and Lead Developer CodersHub. It's gives our team of critical thinkers great joy to bring to you solution to modern day technology in business and trade. Your websites make more sales",
     "contactmessage": "Get in touch with me to i'll get your work done ASAP,or get trained or employment.",
     "email": "Anthonychibuike246@gmail.com",
@@ -21,11 +21,7 @@
         "url": "https://www.linkedin.com/mwlite/in/onyema-anthony-406b97173",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "twitter",
-        "url": "https://www.twitter.com/skyboyblu/",
-        "className": "fa fa-twitter"
-      },
+
       {
         "name": "github",
         "url": "https://github.com/OnyemaAnthony",

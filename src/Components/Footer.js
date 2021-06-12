@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Footer extends Component {
   render() {
     if (this.props.data) {
-      var networks = this.props.data.social.map(function (network) {
+      this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
             <a href={network.url}>
@@ -18,22 +18,22 @@ class Footer extends Component {
       <footer>
         <div className="row">
           <div className="twelve columns">
-            <ul className="social-links">{networks}</ul>
+            {/*<ul className="social-links">{networks}</ul>*/}
 
             <ul>
-              <li>Modified with love by the Divbuilder team ♥️</li>
+              <li>Modified with love by the CodersHub team ♥️</li>
             </ul>
 
             <ul className="copyright">
               <li>
-                &copy; All credit goes to Divbuilder - Copyright 2020 Divbuilder
+                &copy; All credit goes to CodersHub- Copyright 2020 CodersHub
               </li>
-              <li>
-                Design by{" "}
-                <a title="Styleshout" href="https://divbuilder-740a4.web.app/">
-                  Divbuilder
-                </a>
-              </li>
+              {/*<li>*/}
+              {/*  Design by{" "}*/}
+              {/*  <a title="Styleshout" href="https://divbuilder-740a4.web.app/">*/}
+              {/*    CodersHub*/}
+              {/*  </a>*/}
+              {/*</li>*/}
             </ul>
           </div>
           <div id="go-top">
