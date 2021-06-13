@@ -9,13 +9,13 @@ import {
 } from "./GenComponents";
 import Video from "../videos/videoBg.mp4";
 import Icon1 from "../images/svg-1.svg";
-import Icon2 from "../images/svg-2.svg";
+// import Icon2 from "../images/svg-2.svg";
 import Icon3 from "../images/svg-5.svg";
-import Icon4 from "../images/svg-4.svg";
+// import Icon4 from "../images/svg-4.svg";
 import Icon5 from "../images/svg-3.svg";
-import Icon6 from "../images/svg-6.svg";
+// import Icon6 from "../images/svg-6.svg";
 import Icon7 from "../images/svg-7.svg";
-import Icon8 from "../images/svg-8.svg";
+// import Icon8 from "../images/svg-8.svg";
 import ServiceCard from "./ServiceCard";
 
 function Service() {
