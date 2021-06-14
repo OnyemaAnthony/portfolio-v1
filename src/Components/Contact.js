@@ -1,22 +1,22 @@
-// import React, { useState } from "react";
+import React, { useState } from "react";
 import emailjs from "emailjs-com";
 import { init } from "emailjs-com";
 
 init("user_W7s5J5ipgDjWdY4yR0NLs");
 
 const Contact = ({ data }) => {
-  // const [url, setUrl] = useState(
-  //   "mailto:test@example.com?subject=subject&body=body"
-  // );
-  // const [name, setName] = useState("");
-  // const [subject, setSubject] = useState("");
-  // const [email, setEmail] = useState("");
-  // const [message, setMessage] = useState("");
+  const [url, setUrl] = useState(
+    "mailto:test@example.com?subject=subject&body=body"
+  );
+  const [name, setName] = useState("");
+  const [subject, setSubject] = useState("");
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
 
-  // const handleClick = (e) => {
-  //   e.preventDefault();
-  //   window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
-  // };
+  const handleClick = (e) => {
+    e.preventDefault();
+    window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+  };
 
   function sendEmail(e) {
     e.preventDefault();

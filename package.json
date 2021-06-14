@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-v1",
+  "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,7 +32,7 @@
   },
   "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
   "main": "index.js",
-  "author": "Emmanuel Jacob",
+  "author": "Onyema Anthony",
   "license": "ISC",
   "devDependencies": {}
 }
